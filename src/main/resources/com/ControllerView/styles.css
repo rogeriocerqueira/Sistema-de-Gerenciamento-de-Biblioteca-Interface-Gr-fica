@@ -1,0 +1,33 @@
+/* styles.css */
+
+.root {
+    -fx-background-color: #f0f0f0; /* Cor de fundo */
+}
+
+.label {
+    -fx-font-size: 18px; /* Tamanho da fonte */
+    -fx-text-fill: #333; /* Cor do texto */
+}
+
+#pesquisarTextField {
+    -fx-pref-width: 300px; /* Largura do campo de pesquisa */
+    -fx-font-size: 14px; /* Tamanho da fonte */
+}
+
+#pesquisarButton, #renovarButton {
+    -fx-background-color: #FFA500; /* Cor laranja */
+    -fx-text-fill: white; /* Cor do texto */
+    -fx-font-size: 16px; /* Tamanho da fonte */
+    -fx-padding: 10px 20px; /* Espaçamento interno */
+    -fx-border-radius: 20px; /* Borda mais redonda */
+}
+
+#pesquisarButton:hover, #renovarButton:hover {
+    -fx-opacity: 0.9; /* Opacidade reduzida ao passar o mouse */
+}
+
+.button-box {
+    -fx-alignment: CENTER; /* Centralizar o conteúdo */
+    -fx-spacing: 20px; /* Espaçamento entre os botões */
+    -fx-padding: 20px; /* Espaçamento externo */
+}

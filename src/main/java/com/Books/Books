@@ -1,0 +1,255 @@
+[
+  {
+    "nome": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "ISBN": "9788532530801",
+    "categoria": "Fantasia"
+  },
+  {
+    "nome": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "ISBN": "9788532520635",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+    "autor": "J.R.R. Tolkien",
+    "ISBN": "9788578270692",
+    "categoria": "Fantasia"
+  },
+  {
+    "nome": "1984",
+    "autor": "George Orwell",
+    "ISBN": "9788535909940",
+    "categoria": "Ficção Científica"
+  },
+  {
+    "nome": "Dom Quixote",
+    "autor": "Miguel de Cervantes",
+    "ISBN": "9788572329431",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "ISBN": "9788572329943",
+    "categoria": "Ficção"
+  },
+  {
+    "nome": "Cem Anos de Solidão",
+    "autor": "Gabriel García Márquez",
+    "ISBN": "9788571646950",
+    "categoria": "Ficção"
+  },
+  {
+    "nome": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "ISBN": "9788535909551",
+    "categoria": "Ficção"
+  },
+  {
+    "nome": "Crime e Castigo",
+    "autor": "Fiódor Dostoiévski",
+    "ISBN": "9788573263079",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "A Metamorfose",
+    "autor": "Franz Kafka",
+    "ISBN": "9788573268333",
+    "categoria": "Ficção"
+  },
+  {
+    "nome": "O Iluminado",
+    "autor": "Stephen King",
+    "ISBN": "9788532524053",
+    "categoria": "Terror"
+  },
+  {
+    "nome": "Anna Karenina",
+    "autor": "Liev Tolstói",
+    "ISBN": "9788577992716",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "ISBN": "9788578272085",
+    "categoria": "Fantasia"
+  },
+  {
+    "nome": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "ISBN": "9788525434475",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "A Menina que Roubava Livros",
+    "autor": "Markus Zusak",
+    "ISBN": "9788580577259",
+    "categoria": "Ficção"
+  },
+  {
+    "nome": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+    "autor": "C.S. Lewis",
+    "ISBN": "9788578270692",
+    "categoria": "Fantasia"
+  },
+  {
+    "nome": "O Apanhador no Campo de Centeio",
+    "autor": "J.D. Salinger",
+    "ISBN": "9788532520673",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Sol é para Todos",
+    "autor": "Harper Lee",
+    "ISBN": "9788503009495",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Nome do Vento",
+    "autor": "Patrick Rothfuss",
+    "ISBN": "9788599296780",
+    "categoria": "Fantasia"
+  },
+  {
+    "nome": "O Alquimista",
+    "autor": "Paulo Coelho",
+    "ISBN": "9788580410702",
+    "categoria": "Ficção"
+  },
+  {
+    "nome": "A Guerra dos Tronos",
+    "autor": "George R.R. Martin",
+    "ISBN": "9788576571012",
+    "categoria": "Fantasia"
+  },
+  {
+    "nome": "O Morro dos Ventos Uivantes",
+    "autor": "Emily Brontë",
+    "ISBN": "9788535907977",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "A Moreninha",
+    "autor": "Joaquim Manuel de Macedo",
+    "ISBN": "978853690884",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Retrato de Dorian Gray",
+    "autor": "Oscar Wilde",
+    "ISBN": "9788535912575",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Código Da Vinci",
+    "autor": "Dan Brown",
+    "ISBN": "9788532522059",
+    "categoria": "Suspense"
+  },
+  {
+    "nome": "Drácula",
+    "autor": "Bram Stoker",
+    "ISBN": "9788532530221",
+    "categoria": "Terror"
+  },
+  {
+    "nome": "Moby Dick",
+    "autor": "Herman Melville",
+    "ISBN": "9788535923458",
+    "categoria": "Aventura"
+  },
+  {
+    "nome": "Guerra e Paz",
+    "autor": "Liev Tolstói",
+    "ISBN": "9788572329967",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Conde de Monte Cristo",
+    "autor": "Alexandre Dumas",
+    "ISBN": "9788503010200",
+    "categoria": "Aventura"
+  },
+  {
+    "nome": "O Poderoso Chefão",
+    "autor": "Mario Puzo",
+    "ISBN": "9788525422038",
+    "categoria": "Crime"
+  },
+  {
+    "nome": "O Silmarillion",
+    "autor": "J.R.R. Tolkien",
+    "ISBN": "9788578272132",
+    "categoria": "Fantasia"
+  },
+  {
+    "nome": "O Ladrão de Raios",
+    "autor": "Rick Riordan",
+    "ISBN": "9788576867603",
+    "categoria": "Fantasia"
+  },
+  {
+    "nome": "As Vantagens de Ser Invisível",
+    "autor": "Stephen Chbosky",
+    "ISBN": "9788576862073",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Príncipe",
+    "autor": "Nicolau Maquiavel",
+    "ISBN": "9788573260795",
+    "categoria": "Política"
+  },
+  {
+    "nome": "O Médico e o Monstro",
+    "autor": "Robert Louis Stevenson",
+    "ISBN": "9788571643461",
+    "categoria": "Terror"
+  },
+  {
+    "nome": "O Perfume",
+    "autor": "Patrick Süskind",
+    "ISBN": "9788579622019",
+    "categoria": "Mistério"
+  },
+  {
+    "nome": "O Último Desejo",
+    "autor": "Andrzej Sapkowski",
+    "ISBN": "9788556510559",
+    "categoria": "Fantasia"
+  },
+  {
+    "nome": "O Nome da Rosa",
+    "autor": "Umberto Eco",
+    "ISBN": "9788578271289",
+    "categoria": "Mistério"
+  },
+  {
+    "nome": "Os Miseráveis",
+    "autor": "Victor Hugo",
+    "ISBN": "9788573261891",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Grande Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "ISBN": "9788525420294",
+    "categoria": "Romance"
+  },
+  {
+    "nome": "O Estrangeiro",
+    "autor": "Albert Camus",
+    "ISBN": "9788535912841",
+    "categoria": "Ficção"
+  },
+  {
+    "nome": "As Aventuras de Tom Sawyer",
+    "autor": "Mark Twain",
+    "ISBN": "9788535911776",
+    "categoria": "Aventura"
+  }
+]
+

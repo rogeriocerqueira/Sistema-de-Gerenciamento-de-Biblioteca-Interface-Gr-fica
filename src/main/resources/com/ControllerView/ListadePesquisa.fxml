@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Pagination?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TableView prefHeight="37.0" prefWidth="600.0">
+        <columns>
+          <TableColumn id="Livro" prefWidth="156.0" text="Livro" />
+          <TableColumn minWidth="0.0" prefWidth="92.0" text="Autor" />
+            <TableColumn minWidth="0.0" prefWidth="186.0" text="ISBN" />
+            <TableColumn minWidth="0.0" prefWidth="95.0" text="Categoria" />
+            <TableColumn minWidth="0.0" prefWidth="70.0" text="Status" />
+        </columns>
+      </TableView>
+      <TextField alignment="TOP_LEFT" prefHeight="28.0" prefWidth="501.0" text="Harry Potter e a Pedra Filosofal  - J.K. Rowling - 9788532530801 - Fantasia">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField prefHeight="28.0" prefWidth="528.0" text="&quot;Orgulho e Preconceito&quot; - Jane Austen - ISBN: 9788532520635 - Romance">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField prefHeight="28.0" prefWidth="528.0" text="&quot;O Senhor dos Anéis: A Sociedade do Anel&quot; - J.R.R. Tolkien - ISBN: 9788578270692 - Fantasia">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField prefHeight="28.0" prefWidth="528.0" text="&quot;1984&quot; - George Orwell - ISBN: 9788535909940 - Ficção Científica">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField prefHeight="28.0" prefWidth="528.0" text="&quot;Dom Quixote&quot; - Miguel de Cervantes - ISBN: 9788572329431 - Romance">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField prefHeight="28.0" prefWidth="528.0" text="&quot;O Pequeno Príncipe&quot; - Antoine de Saint-Exupéry - ISBN: 9788572329943 - Ficção">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField prefHeight="28.0" prefWidth="528.0" text="&quot;Cem Anos de Solidão&quot; - Gabriel García Márquez - ISBN: 9788571646950 - Ficção">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField prefHeight="28.0" prefWidth="528.0" text="&quot;A Revolução dos Bichos&quot; - George Orwell - ISBN: 9788535909551 - Ficção">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField prefHeight="28.0" prefWidth="528.0" text="&quot;Crime e Castigo&quot; - Fiódor Dostoiévski - ISBN: 9788573263079 - Romance">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <TextField prefHeight="15.0" prefWidth="574.0" text="&quot;A Metamorfose&quot; - Franz Kafka - ISBN: 9788573268333 - Ficção">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextField>
+      <Pagination prefHeight="200.0" prefWidth="200.0" />
+   </children>
+</VBox>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox prefHeight="400.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.ControllerView.TelaInicialController">
+  <children>
+      <TitledPane animated="false" text="Tela Inicial">
+        <content>
+          <AnchorPane depthTest="ENABLE" minHeight="0.0" minWidth="0.0" prefHeight="506.0" prefWidth="638.0">
+               <children>
+                  <Button alignment="CENTER" blendMode="DARKEN" contentDisplay="TEXT_ONLY" ellipsisString="" graphicTextGap="0.0" layoutX="54.0" layoutY="217.0" mnemonicParsing="false" onAction="#usuarioButtonClicked" prefHeight="40.0" prefWidth="176.0" text="Usuário" textAlignment="CENTER" textFill="#019e38">
+                     <font>
+                        <Font name="DejaVu Sans ExtraLight" size="18.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets top="10.0" />
+                     </opaqueInsets>
+                  </Button>
+                  <Text fill="#e18e13" layoutX="26.0" layoutY="66.0" strokeType="OUTSIDE" strokeWidth="0.0" text="SISTEMA DE GERENCIAMENTO DE BIBLIOTECA" textAlignment="CENTER" wrappingWidth="284.0">
+                     <font>
+                        <Font name="DejaVu Sans Bold" size="28.0" />
+                     </font>
+                  </Text>
+                  <Button alignment="CENTER" blendMode="DARKEN" cache="true" contentDisplay="CENTER" ellipsisString="" graphicTextGap="0.0" layoutX="53.0" layoutY="286.0" mnemonicParsing="false" onAction="#administradorButtonClicked" pickOnBounds="false" prefHeight="42.0" prefWidth="178.0" text="Bibliotecário/Adm" textAlignment="CENTER" textFill="#009e37">
+                     <font>
+                        <Font name="DejaVu Sans ExtraLight" size="16.0" />
+                     </font>
+                     <opaqueInsets>
+                        <Insets top="10.0" />
+                     </opaqueInsets>
+                  </Button>
+               </children>
+            </AnchorPane>
+        </content>
+      </TitledPane>
+  </children>
+</VBox>
